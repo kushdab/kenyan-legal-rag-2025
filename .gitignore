@@ -1,0 +1,6 @@
+__pycache__/
+.env
+chroma_db/
+*.pdf
+venv/
+.streamlit/config.toml
